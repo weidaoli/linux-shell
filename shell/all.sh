@@ -5,7 +5,7 @@ if [ "$(id -u)" != "0" ]; then
      exit 1
 fi
 
-echo "请选择"  #hu
+echo "请选择"  
 echo "1. 安装Apache"   
 echo "2. 安装MySQL"
 
